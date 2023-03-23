@@ -29,6 +29,13 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+tags: true
+categories: true
+# 左侧导航栏，用文件名还是文章名
+sidebar:
+  # usePostTitle 为 ture 优先用文章名，不填或为 false 用文件名
+  usePostTitle: true
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -96,7 +103,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid  # 指定主题
+theme: 3-hexo  # 指定主题
 
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 
@@ -106,3 +113,4 @@ deploy:
   type: git
   repo: git@github.com:axinger/axinger.github.io.git
   branch: master
+
