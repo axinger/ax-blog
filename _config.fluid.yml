@@ -540,7 +540,7 @@ navbar:
 
   # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
 
-  blog_title: "Fluid"
+  blog_title: "阿星"
 
   # 导航栏毛玻璃特效，实验性功能，可能会造成页面滚动掉帧和抖动，部分浏览器不支持会自动不生效
 
