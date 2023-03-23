@@ -1584,7 +1584,7 @@ about:
 
   avatar: /img/avatar.png
 
-  name: "Fluid"
+  name: "阿星"
 
   intro: "An elegant theme for Hexo"
 
@@ -1598,7 +1598,7 @@ about:
 
     - { class: "iconfont icon-douban-fill", link: "豆瓣", tip: "豆瓣" }
 
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/fluid.png" }
 
   #---------------------------
 
