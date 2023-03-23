@@ -758,7 +758,7 @@ index:
 
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   # 头图高度，屏幕百分比
 
@@ -872,7 +872,7 @@ index:
 
 post:
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 70
 
@@ -1482,7 +1482,7 @@ giscus:
 
 archive:
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 60
 
@@ -1500,7 +1500,7 @@ category:
 
   enable: true
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 60
 
@@ -1546,7 +1546,7 @@ tag:
 
   enable: true
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 80
 
@@ -1576,7 +1576,7 @@ about:
 
   enable: true
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 60
 
@@ -1616,7 +1616,7 @@ about:
 
 page:
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 60
 
@@ -1634,7 +1634,7 @@ page404:
 
   enable: true
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 85
 
@@ -1658,7 +1658,7 @@ links:
 
   enable: true
 
-  banner_img: /img/default.png
+  banner_img: /img/bg_img.jpg
 
   banner_img_height: 60
 
