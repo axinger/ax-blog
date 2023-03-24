@@ -110,3 +110,12 @@ deploy:
   repo: git@github.com:axinger/axinger.github.io.git
   branch: master
 
+widgets:
+  #- social
+  - post_content
+  - category
+  - tagcloud
+  - recent_posts
+  - archive
+#- friendly_link
+#- wechat
