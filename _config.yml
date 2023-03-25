@@ -5,10 +5,10 @@
 # Site
 title: axinger
 subtitle: ''
-description: ''
-keywords:
+description: 阿星开发笔记		#个性签名
+keywords: code
 author: 阿星
-timezone: ''
+timezone: Asia/Shanghai    #中国的时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cafe  # 指定主题
+theme: butterfly  # 指定主题
 
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 
