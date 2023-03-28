@@ -17,7 +17,7 @@ categories:
 
 ## 1.1.国内安装docker
 
-```
+```shell
 curl -sSL https://get.daocloud.io/docker | sh
 ```
 
